@@ -22,7 +22,7 @@ Instead of expanding and shrinking a window manually, track the **last seen inde
 ---
 
 ## 📸 Visual Handwritten Notes
-![Handwritten Notes Scan](./notes.png)
+![Handwritten Notes Scan](./)
 
 ---
 

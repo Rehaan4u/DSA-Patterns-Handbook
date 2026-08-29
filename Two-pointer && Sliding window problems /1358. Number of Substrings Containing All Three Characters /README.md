@@ -22,7 +22,7 @@ Instead of expanding and shrinking a window manually, track the **last seen inde
 ---
 
 ## 📸 Visual Handwritten Notes
-![Handwritten Notes Scan](IMG_9497.jpeg)
+![Handwritten Notes Scan](https://github.com/Rehaan4u/DSA-Patterns-Handbook/blob/bc7f0be9da270945115e65ee5889487401900b0d/IMG_9497.jpeg)
 
 ---
 

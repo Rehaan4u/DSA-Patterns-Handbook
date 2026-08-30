@@ -20,7 +20,7 @@ exactly k times.
 ---
 
 ## 📸 Visual Handwritten Notes
-![Handwritten Notes Scan](https://github.com/Rehaan4u/DSA-Patterns-Handbook/blob/bc7f0be9da270945115e65ee5889487401900b0d/IMG_9497.jpeg)
+![Handwritten Notes Scan](https://github.com/Rehaan4u/DSA-Patterns-Handbook/blob/e8878022d639f531a4fe275f0dfecaf26130b053/IMG_9505.jpeg)
 
 ---
 

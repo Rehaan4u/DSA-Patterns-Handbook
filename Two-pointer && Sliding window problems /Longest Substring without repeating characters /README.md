@@ -29,7 +29,7 @@ to put your l pointer at one index ahead, from that previous seen character, but
 
 ## ⚡ Complexity Analysis
 - **Time Complexity:** $\mathcal{O}(N)$ — Single pass through the string of length $N$.
-- **Space Complexity:** $\mathcal{O}(N)$ — Fixed array of size 3 to track indices.
+- **Space Complexity:** $\mathcal{O}(N)$ — Storing elements in the map
 
 ---
 

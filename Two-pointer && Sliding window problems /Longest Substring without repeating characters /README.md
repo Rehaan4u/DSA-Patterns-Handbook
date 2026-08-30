@@ -23,7 +23,7 @@ to put your l pointer at one index ahead, from that previous seen character, but
 ---
 
 ## 📸 Visual Handwritten Notes
-![Handwritten Notes Scan](https://github.com/Rehaan4u/DSA-Patterns-Handbook/blob/bc7f0be9da270945115e65ee5889487401900b0d/IMG_9497.jpeg)
+![Handwritten Notes Scan](https://github.com/Rehaan4u/DSA-Patterns-Handbook/blob/bc7f0be9da270945115e65ee5889487401900b0d/IMG_9499.jpeg)
 
 ---
 

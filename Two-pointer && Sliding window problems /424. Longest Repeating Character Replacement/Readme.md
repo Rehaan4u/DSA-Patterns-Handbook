@@ -25,7 +25,7 @@ We need to keep track of the element occurring most frequently, and for any give
 
 ## ⚡ Complexity Analysis
 - **Time Complexity:** $\mathcal{O}(N)$ — Single pass through the string of length $N$.
-- **Space Complexity:** $\mathcal{O}(1)$ — We are using map, to store characters.
+- **Space Complexity:** $\mathcal{O}(N)$ — We are using map, to store characters.
 
 ---
 

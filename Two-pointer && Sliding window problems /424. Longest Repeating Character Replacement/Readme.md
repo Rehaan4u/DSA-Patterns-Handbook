@@ -19,7 +19,7 @@ We need to keep track of the element occurring most frequently, and for any give
 ---
 
 ## 📸 Visual Handwritten Notes
-![Handwritten Notes Scan](https://github.com/Rehaan4u/DSA-Patterns-Handbook/blob/bc7f0be9da270945115e65ee5889487401900b0d/IMG_9497.jpeg)
+![Handwritten Notes Scan](https://github.com/Rehaan4u/DSA-Patterns-Handbook/blob/575eb3ff416cfda0aa7f1bcc9fe0bcab1ee5bbfb/IMG_9512.jpeg)
 
 ---
 
